@@ -1,9 +1,4 @@
 # python-challenge
+This challenge reviews python methods to import csv files, create for loops to iterate through rows, calculate percentages of mixed variables, calculate differences of values month to month, print results, and write them into a file within a folder.
+I used Chris Livesays code <https://github.com/Clivesay1/python-challenge.git> as a reference with permission to get me started, and was able to google a lot of the other material I wasn't familiar with, and I used references from previous work to better use some of the methods contained in my code.
 
-This assignment is to help a small town revamp their voting polls process.
-the end result will show:
-The total number of votes cast
-A complete list of candidates who received votes
-The percentage of votes each candidate won
-The total number of votes each candidate won
-The winner of the election based on popular vote
